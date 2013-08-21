@@ -1,0 +1,2 @@
+#define MAX_NUM_STATES 100
+#define EPSILON 255
