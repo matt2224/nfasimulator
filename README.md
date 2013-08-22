@@ -1,4 +1,4 @@
 nfasimulator
 ============
 
-NFA Simulator
+An NFA Simulator for recognising text sequences.
